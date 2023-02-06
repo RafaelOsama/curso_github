@@ -5,7 +5,7 @@ function singUp(email){
 
 //pegando o email e cadastrando na plataforma.
 
-function pegaEmail(email){
+function mostraMensagem(email){
     return 'Bem vindo ao sistema';
 }
 
