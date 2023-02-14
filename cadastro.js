@@ -9,4 +9,4 @@ function mostraMensagem(email){
     return 'Bem vindo ao sistema';
 }
 
-//Adicionando funcao de mensagem
+//Adicionando funcao de mensagem.
