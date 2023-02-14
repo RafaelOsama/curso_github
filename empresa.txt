@@ -1,1 +1,4 @@
 sujeito programador
+Curso de Git
+Youtube
+Google
